@@ -1,0 +1,19 @@
+dfdf
+Data is like Crude oil, it has to be refined to address our business need 
+Just like with distilation process and fractioanl refining we segregate Tar, Diesel, Petrol(Gas).
+
+Unstructerd Data. 
+
+ETL 
+Extract- Pipeline
+Will transform if to something which is more easy. 
+
+Transform
+
+Load - where is it going to stored. like SAP , MOngo, influx, google big query, architurecutre. 
+
+Where and what kind of data are we trying 
+
+Graph dp or solar, elastic search. 
+
+cassa nadra of mongo db
